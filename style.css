@@ -1,0 +1,21 @@
+#homepicture{
+height: 500px;
+width: 800px;
+}
+body{
+background-color: magenta;
+text-align: center;
+}
+h2{
+font-size:30px;
+}
+.links{
+font-size: 20px;
+font-family: cursive;
+}
+html {
+scroll-behavior: smooth;
+}
+#myCarsouel{
+background-color: red;
+}
